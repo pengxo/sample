@@ -1,2 +1,2 @@
 # sample
-Minimal Sample Project for Spring Boot with Webflux 
+Minimal Sample Project for Spring Boot 3 with Webflux 
